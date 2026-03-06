@@ -1,0 +1,20 @@
+# Prolog
+*.plc
+*.po
+
+# Common Lisp
+*.fasl
+*.fas
+*.lisp-temp
+quicklisp.lisp
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
